@@ -8,6 +8,7 @@ public class EjemploEGIT {
 		System.out.println("Primer Cambio Rama 1");
 		System.out.println("Tercer Commit master");
 		System.out.println("Segundo Cambio Rama 1");
+		System.out.println("Cambio en Remoto");
 	}
 
 }
